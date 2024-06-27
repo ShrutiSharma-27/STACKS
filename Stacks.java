@@ -17,6 +17,8 @@ public class Stacks {
         System.out.println(stack.search(45)); //present : return its position from top
         System.out.println(stack.search(34));
         System.out.println(stack.search(2)); //not present : return -1
+
+        System.out.println(stack.size());
     }
 }
 
@@ -30,3 +32,4 @@ public class Stacks {
 // 1
 // 2
 // -1
+// 2
