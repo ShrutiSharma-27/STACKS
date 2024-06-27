@@ -19,3 +19,14 @@ public class Stacks {
         System.out.println(stack.search(2)); //not present : return -1
     }
 }
+
+//Output :
+
+// 2
+// 2
+// 45
+// false
+// false
+// 1
+// 2
+// -1
